@@ -10,7 +10,7 @@ Complete the following exercises to improve your HTML and CSS skills. Each exerc
 ✅
 - Add visual feedback when hovering over keys. White keys should turn light gray (#f0f0f0) and black keys should turn dark gray (#333) when hovered.✅
 
-- Add smooth CSS transitions to all hover and active states created in exercise 2. The transitions should take 0.1 seconds.❌
+- Add smooth CSS transitions to all hover and active states created in exercise 2. The transitions should take 0.1 seconds.✅
 
 - Add note labels (C, D, E, F, G, A, B) to the white keys, then repeat. Position them at the bottom of each white key. Style them with a small font size (10px) and centered alignment. Do the same exercise for black keys, by adding the appropriate labels (C#, Eb, F#, G#, Bb). In the end, for one octave (first 12 keys), the order of the labels should be:
 `C C# D Eb E F F# G G# A Bb B`. Then, repeat for the rest of the keys. ❌
