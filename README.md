@@ -8,7 +8,7 @@ Complete the following exercises to improve your HTML and CSS skills. Each exerc
 
 - The current keyboard has a fixed-width keypad that doesn't fill the container on larger screens. Modify the CSS so that the keypad always fills 100% of the available width in the keyboard container, regardless of screen resolution.
 ✅
-- Add visual feedback when hovering over keys. White keys should turn light gray (#f0f0f0) and black keys should turn dark gray (#333) when hovered.❌
+- Add visual feedback when hovering over keys. White keys should turn light gray (#f0f0f0) and black keys should turn dark gray (#333) when hovered.✅
 
 - Add smooth CSS transitions to all hover and active states created in exercise 2. The transitions should take 0.1 seconds.❌
 
