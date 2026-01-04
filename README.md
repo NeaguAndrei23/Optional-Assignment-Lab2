@@ -4,7 +4,7 @@ Complete the following exercises to improve your HTML and CSS skills. Each exerc
 
 - Center the entire keyboard on the viewport. You can use `vw` and `vh` units of measure for setting the viewport size and `flex` to position the entire keyboard. ✅
 
-- Add a border radius for keyboard, keypad and keys as appropriate, to create a more realistic look of the corners. ❌
+- Add a border radius for keyboard, keypad and keys as appropriate, to create a more realistic look of the corners. ✅
 
 - The current keyboard has a fixed-width keypad that doesn't fill the container on larger screens. Modify the CSS so that the keypad always fills 100% of the available width in the keyboard container, regardless of screen resolution.
 ❌
