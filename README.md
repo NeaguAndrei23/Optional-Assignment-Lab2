@@ -1,6 +1,6 @@
 ## Exercises
 
-Complete the following exercises to improve your HTML and CSS skills. Each exercise builds upon the existing code. (done exercises will be marked in ✅ and those not done yet in ❌)
+Complete the following exercises to improve your HTML and CSS skills. Each exercise builds upon the existing code. (done exercises will be marked in ✅ and those not done yet in ❌) - all complete
 
 - Center the entire keyboard on the viewport. You can use `vw` and `vh` units of measure for setting the viewport size and `flex` to position the entire keyboard. ✅
 
@@ -15,7 +15,7 @@ Complete the following exercises to improve your HTML and CSS skills. Each exerc
 - Add note labels (C, D, E, F, G, A, B) to the white keys, then repeat. Position them at the bottom of each white key. Style them with a small font size (10px) and centered alignment. Do the same exercise for black keys, by adding the appropriate labels (C#, Eb, F#, G#, Bb). In the end, for one octave (first 12 keys), the order of the labels should be:
 `C C# D Eb E F F# G G# A Bb B`. Then, repeat for the rest of the keys. ✅
 
-- Add realistic shadows to create depth: ❌
+- Add realistic shadows to create depth: ✅
     - White keys should have an inset shadow
     - Black keys should have a subtle drop shadow
     - When hovered, the shadows should change to create a pressed-in effect
